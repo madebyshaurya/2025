@@ -1,10 +1,10 @@
-Name:
-Status:
-ProjectTitle:
-Technologies:
+Name: Shaurya Gupta
+Status: Submitted
+ProjectTitle: ExploreML
+Technologies: SwiftUI, Vision, Natural Language
 
-AboutMeUrl:
-SourceUrl:
+AboutMeUrl: https://shauryag.com
+SourceUrl: 
 VideoUrl:
 
 <!---
